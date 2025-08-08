@@ -22,4 +22,4 @@ DSWF is online calculated using Google Earth Engine (GEE). The code is accessibl
 ## PlanetScope validation dataset (PSVD)
 The reference water fraction maps in the PSVD are derived by degrading 3-meter resolution binary water labels annotated from PlanetScope imagery. The original hand-labeled data are collected from the paper "A globally sampled high-resolution hand-labeled validation dataset for evaluating surface water extent maps", and accessible at https://doi.org/10.25739/03nt-4f29.
 ## Google Earth validation dataset (GEVD)
-The reference water fraction maps in the GEVD are derived by degrading 1-meter resolution binary water labels annotated from Google Earth imagery. The reference maps are publicly available for use and accessible at https://doi.org/10.5281/zenodo.16751898.
+The reference water fraction maps in the GEVD are derived by degrading 1-meter resolution binary water labels annotated from Google Earth imagery. The reference maps are publicly available for use and accessible at https://doi.org/10.5281/zenodo.16740103.
