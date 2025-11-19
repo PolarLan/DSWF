@@ -6,7 +6,7 @@ DSWF is generated on-demand online using Google Earth Engine (GEE) in response t
 The accuracy of DSWF was evaluated across 113 sample tiles, demonstrating an overall root mean squared error (RMSE) of 0.092 and mean absolute error (MAE) of 0.027 when validated against both pure and mixed pixels.
 
 # Code to access DSWF
-DSWF is online calculated using Google Earth Engine (GEE). The code is accessible via the URL: https://code.earthengine.google.com/f5c84b72d6e76355152c61b54af7b9b0.
+DSWF is online calculated using Google Earth Engine (GEE). The code is accessible via the URL: https://code.earthengine.google.com/74056fad945ddfca1f1d71c9cb78ae23.
 ## Input parameters
   - Area of Interest (AOI)
   - Time range
